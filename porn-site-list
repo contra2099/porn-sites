@@ -32428,9 +32428,3 @@ youtube.com/ads/preferences/$popup
 _reklama_$domain=~youtube.com
 youtube.com#@#.overlay-ads
 youtube.com#@#.video-ads
-||youtube.local^
-||youtubecenter.net^
-||youtube-video.download/y-vd.php
-||youtube.com/ad_companion
-||youtube.com/pagead/
-||m.youtube.com/get_midroll_$domain=youtube.com
