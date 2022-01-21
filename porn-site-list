@@ -32424,7 +32424,6 @@ youtube.com##ytd-video-masthead-ad-v3-renderer
 youtube.com##ytm-companion-slot
 youtube.com##ytm-promoted-sparkles-text-search-renderer
 youtube.com##ytm-promoted-sparkles-web-renderer
-tv.youtube.com^$generichide
 youtube.com/ads/preferences/$popup
 _reklama_$domain=~youtube.com
 youtube.com#@#.overlay-ads
