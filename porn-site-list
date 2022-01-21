@@ -32424,3 +32424,14 @@ youtube.com##ytd-video-masthead-ad-v3-renderer
 youtube.com##ytm-companion-slot
 youtube.com##ytm-promoted-sparkles-text-search-renderer
 youtube.com##ytm-promoted-sparkles-web-renderer
+tv.youtube.com^$generichide
+youtube.com/ads/preferences/$popup
+_reklama_$domain=~youtube.com
+youtube.com#@#.overlay-ads
+youtube.com#@#.video-ads
+||youtube.local^
+||youtubecenter.net^
+||youtube-video.download/y-vd.php
+||youtube.com/ad_companion
+||youtube.com/pagead/
+||m.youtube.com/get_midroll_$domain=youtube.com
